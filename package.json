@@ -1,6 +1,7 @@
 {
   "name": "campeonato-40",
   "version": "0.1.0",
+  "homepage": "https://WilmerBuestan.github.io/campeonato40DCCO",
   "private": true,
   "dependencies": {
     "@testing-library/dom": "^10.4.1",
